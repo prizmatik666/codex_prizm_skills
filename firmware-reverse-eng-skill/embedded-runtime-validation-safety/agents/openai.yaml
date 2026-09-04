@@ -1,0 +1,4 @@
+interface:
+  display_name: "Embedded Runtime Validation Safety"
+  short_description: "Run evidence-driven, low-impact firmware tests."
+  default_prompt: "Use $embedded-runtime-validation-safety to design and execute bounded, evidence-preserving firmware validation."

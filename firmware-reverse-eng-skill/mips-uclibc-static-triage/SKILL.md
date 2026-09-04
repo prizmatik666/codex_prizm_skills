@@ -9,6 +9,8 @@ metadata:
 
 Use this skill for read-only MIPS firmware binary/object analysis. Prefer conservative conclusions and cite artifact names, symbols, relocation offsets, and disassembly addresses where practical.
 
+See `references/TOOLS.md` for the external command-line and MIPS-capable Binutils setup used by this workflow.
+
 ## Workflow
 
 1. Classify artifacts.

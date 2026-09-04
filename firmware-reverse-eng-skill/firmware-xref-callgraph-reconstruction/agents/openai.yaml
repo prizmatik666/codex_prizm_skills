@@ -1,0 +1,4 @@
+interface:
+  display_name: "Firmware XREF Call-Graph Reconstruction"
+  short_description: "Resolve stripped firmware control flow."
+  default_prompt: "Use $firmware-xref-callgraph-reconstruction to reconstruct indirect firmware call paths and source-to-sink authorization flow."

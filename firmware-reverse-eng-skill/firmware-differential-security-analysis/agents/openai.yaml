@@ -1,0 +1,4 @@
+interface:
+  display_name: "Firmware Differential Security Analysis"
+  short_description: "Compare firmware versions for security patches."
+  default_prompt: "Use $firmware-differential-security-analysis to compare firmware versions and isolate security-relevant patch deltas."

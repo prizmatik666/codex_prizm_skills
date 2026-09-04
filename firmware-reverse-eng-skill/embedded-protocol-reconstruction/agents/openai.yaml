@@ -1,0 +1,4 @@
+interface:
+  display_name: "Embedded Protocol Reconstruction"
+  short_description: "Recover embedded packet formats and dispatch."
+  default_prompt: "Use $embedded-protocol-reconstruction to reconstruct an embedded protocol from parsers, crypto, tables, and captures."

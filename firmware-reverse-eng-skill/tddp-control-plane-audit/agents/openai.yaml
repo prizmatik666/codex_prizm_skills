@@ -1,0 +1,4 @@
+interface:
+  display_name: "TDDP Control-Plane Audit"
+  short_description: "Audit embedded control protocols safely."
+  default_prompt: "Use $tddp-control-plane-audit to reconstruct and assess an embedded control protocol from firmware evidence."

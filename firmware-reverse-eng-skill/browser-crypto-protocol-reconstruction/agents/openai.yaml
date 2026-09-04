@@ -1,0 +1,4 @@
+interface:
+  display_name: "Browser Crypto Protocol Reconstruction"
+  short_description: "Trace browser crypto into firmware requests."
+  default_prompt: "Use $browser-crypto-protocol-reconstruction to reconstruct a browser-to-firmware cryptographic request pipeline."

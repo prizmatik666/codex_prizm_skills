@@ -23,12 +23,6 @@ This checklist is the operating sequence for the bundled skills. Keep the work r
 - Mark names recovered from strings alone as candidates.
 - Distinguish `shell-string`, `argv-based`, and `mixed/unclear` execution per call site.
 
-## 3a. Reconstruct browser and embedded protocols
-
-- Use `browser-crypto-protocol-reconstruction` for JavaScript transforms, challenge-response, and application envelopes.
-- Use `embedded-protocol-reconstruction` for native packet parsers, crypto/integrity, dispatch tables, and source-to-sink paths.
-- Use `embedded-auth-session-state-analysis` when login success must be correlated with native session state, replacement, binding, or expiry.
-
 ## 4. Map web and CGI behavior
 
 - Use `firmware-web-cgi-triage` to collect page references, JavaScript-generated routes, form actions, ASP/EJ references, and upload paths.
@@ -47,10 +41,6 @@ This checklist is the operating sequence for the bundled skills. Keep the work r
 - Propose dynamic tests, emulation, instrumentation, debugger breakpoints, route probes, or filesystem observation only after the static evidence is recorded.
 - Isolate devices and avoid tests that alter persistent configuration unless explicitly approved.
 - Record test commands, inputs, expected observations, actual observations, and cleanup.
-- Use `embedded-runtime-validation-safety` for dry-runs, packet budgets, capture scope, exact-target checks, and no-retry behavior.
-- Use `tddp-control-plane-audit` for proprietary control/debug protocols and protocol-validation versus authentication analysis.
-- Use `embedded-config-state-provenance` for factory/default, NVRAM/flash, reset, credential, and persistence tracing.
-- Use `firmware-xref-callgraph-reconstruction` for stripped-binary indirect calls, callback tables, and source-to-sink graphs.
 
 ## 7. Write and review the report
 

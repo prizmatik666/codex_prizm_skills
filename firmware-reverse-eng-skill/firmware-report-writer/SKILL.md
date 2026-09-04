@@ -9,6 +9,8 @@ metadata:
 
 Use this skill when turning reverse-engineering notes into a conservative, auditable report.
 
+Companion references are available in `references/`: `WORKFLOW.md` for the end-to-end checklist, `CASE_LAYOUT.md` for case organization, `REPORT_TEMPLATE.md` for a starting report, and `TOOLS.md` for external dependencies.
+
 ## Report Structure
 
 Prefer this structure unless the user asks otherwise:

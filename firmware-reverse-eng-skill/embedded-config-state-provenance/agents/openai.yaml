@@ -1,0 +1,4 @@
+interface:
+  display_name: "Embedded Config-State Provenance"
+  short_description: "Trace firmware config and persistence."
+  default_prompt: "Use $embedded-config-state-provenance to trace factory, runtime, and persistent firmware configuration state."

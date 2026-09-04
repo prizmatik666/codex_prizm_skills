@@ -1,0 +1,4 @@
+interface:
+  display_name: "Embedded Auth Session State Analysis"
+  short_description: "Trace native authentication and session state."
+  default_prompt: "Use $embedded-auth-session-state-analysis to map native login, session, timeout, and authorization state."
