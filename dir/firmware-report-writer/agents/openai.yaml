@@ -1,0 +1,4 @@
+interface:
+  display_name: "Firmware Report Writer"
+  short_description: "Create conservative firmware RE reports."
+  default_prompt: "Use this skill to turn firmware reverse-engineering notes into a structured report with route tables, function maps, confirmed findings, hypotheses, risk ranking, and validation steps."

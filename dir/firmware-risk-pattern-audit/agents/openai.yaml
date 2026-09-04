@@ -1,0 +1,4 @@
+interface:
+  display_name: "Firmware Risk Pattern Audit"
+  short_description: "Find and rank risky firmware backend patterns."
+  default_prompt: "Use this skill to audit firmware web/backend code for command execution, unsafe string handling, /tmp path construction, upload/restore/upgrade flows, WPS, nvram, and hidden CGI risks."

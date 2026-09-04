@@ -1,0 +1,4 @@
+interface:
+  display_name: "MIPS uClibc Static Triage"
+  short_description: "Analyze MIPS/uClibc firmware binaries and objects."
+  default_prompt: "Use this skill to classify MIPS firmware artifacts, inspect symbols/relocations/disassembly, and distinguish argv-based exec from shell-string command execution."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Firmware Web CGI Triage"
+  short_description: "Map firmware web UI routes to CGI handlers."
+  default_prompt: "Use this skill to compare extracted web pages, httpd strings, symbols, relocations, and route tables when mapping embedded firmware CGI endpoints."
