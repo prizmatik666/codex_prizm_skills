@@ -2,4 +2,4 @@
 
 Portable backups of custom Codex skills.
 
-The firmware reverse-engineering bundle is in [`dir/`](dir/). See [`dir/README.md`](dir/README.md) for installation and usage instructions.
+The firmware reverse-engineering bundle is in [`firmware-reverse-eng-skill/`](firmware-reverse-eng-skill/). See [`firmware-reverse-eng-skill/README.md`](firmware-reverse-eng-skill/README.md) for installation and usage instructions.

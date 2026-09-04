@@ -8,10 +8,10 @@ From the repository root, copy the four skill directories into the user's Codex 
 
 ```sh
 mkdir -p "$HOME/.codex/skills"
-cp -R dir/firmware-report-writer \
-      dir/firmware-risk-pattern-audit \
-      dir/firmware-web-cgi-triage \
-      dir/mips-uclibc-static-triage \
+cp -R firmware-reverse-eng-skill/firmware-report-writer \
+      firmware-reverse-eng-skill/firmware-risk-pattern-audit \
+      firmware-reverse-eng-skill/firmware-web-cgi-triage \
+      firmware-reverse-eng-skill/mips-uclibc-static-triage \
       "$HOME/.codex/skills/"
 ```
 
